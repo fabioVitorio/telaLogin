@@ -1,4 +1,4 @@
-# Tela de Login feita utilizando a plataforma NetBeans - Java. <br> <img align="center" alt="Rafa-HTML" height="35" width="100" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+# Tela de Login feita utilizando a plataforma NetBeans - Java. <img align="center" alt="Rafa-HTML" height="35" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
 Trabalho Integrador do curso Técnico em Informática para um studio de tatuagem. <br>
 Em processo... ⏳🖥️<br> <br> <br>
 
